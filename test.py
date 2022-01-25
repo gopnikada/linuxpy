@@ -4,3 +4,5 @@ def calc(a, b):
 res = calc(1,2)
 
 print(res)
+
+print("new commit") 
